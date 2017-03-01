@@ -3,7 +3,7 @@ var timeUnits = require("minium/timeunits");
 
 
 
-//--[ Contants ]----------------------------------------------
+//--[ Constants ]----------------------------------------------
 
 // How many seconds/minutes/hours to wait after having posted the challenge
 var HINT_DELAY = 10;
